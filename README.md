@@ -1,2 +1,1 @@
-"# notjpmc"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/brandon-wilson1993/notjpmc.git git push -u origin main
-"# notjpmc" 
+Nothing important to put here yet
